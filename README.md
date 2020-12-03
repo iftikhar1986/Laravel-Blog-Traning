@@ -14,3 +14,6 @@ resource_path('new folder name instead of view'),
 ],
 
 ---
+
+Q4 : What is the Use of api.php?
+Answer : api.php allow us to build APIs, we can make GET/POST/DELETE/PUT/PATCH to interact with other API or databases.
